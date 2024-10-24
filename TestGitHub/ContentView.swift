@@ -11,6 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Text("Add tet to tet brance")
+            Text("delete content view")
         }
         .padding()
     }
