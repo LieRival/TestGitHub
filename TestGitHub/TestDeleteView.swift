@@ -10,7 +10,7 @@ import SwiftUI
 struct TestDeleteView: View {
     var body: some View {
         Text("Delete me!")
-        Text("Chek updates")
+        Text("One More Check updates")
     }
 }
 
