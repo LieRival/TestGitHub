@@ -5,6 +5,7 @@
 # Ігноруємо вихідні файли збірки
 build/
 DerivedData/
+TestGitHub/TestDeleteView.swift
 
 # Ігноруємо Pod-файли
 Pods/
